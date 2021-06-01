@@ -1,7 +1,7 @@
 /**
- * @name SheliaFreeNitroPerks
- * @source https://raw.githubusercontent.com/Shelia666/FreeDiscordNitroPerksPlugin/main/sheliafreenitroperks.plugin.js
- * @updateUrl https://raw.githubusercontent.com/Shelia666/FreeDiscordNitroPerksPlugin/main/sheliafreenitroperks.plugin.js
+ * @name FreeDiscordNitroPerks
+ * @source https://raw.githubusercontent.com/Shelia666/FreeDiscordNitroPerksPlugin/main/FreeDiscordNitroPerks.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Shelia666/FreeDiscordNitroPerksPlugin/main/FreeDiscordNitroPerks.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -38,9 +38,9 @@ module.exports = (() => {
             "version": "1.0.0",
             "description": "Bedava Discord Nitro Özellikleri | Free Discord Nitro Perks",
             "github": "https://raw.githubusercontent.com/Shelia666",
-            "github_raw": "https://raw.githubusercontent.com/Shelia666/FreeDiscordNitroPerksPlugin/main/sheliafreenitroperks.plugin.js"
+            "github_raw": "https://raw.githubusercontent.com/Shelia666/FreeDiscordNitroPerksPlugin/main/FreeDiscordNitroPerks.plugin.js"
         },
-        "main": "sheliafreenitroperks.plugin.js"
+        "main": "FreeDiscordNitroPerks.plugin.js"
     };
 
     return !global.ZeresPluginLibrary ? class {
